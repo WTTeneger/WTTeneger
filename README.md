@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @WTTeneger
-- 👀 I’m interested in programing
-- 🌱 I'm currently learning in college as a programmer
-- 💞️ I’m looking to collaborate on it company
-- 📫 How to reach me amal.agishev@mail.ru
+- 👋 Hi, I’m Amal A. 
+- CEO At Cicada IH
+- CTO At atticalgo.com
+- TechLead At https://t.me/g_113_bot, https://t.me/winnerscoffee_bot, https://t.me/alpha_web3_bot and more other
 
